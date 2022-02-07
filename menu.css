@@ -6,7 +6,7 @@ ul {
 input[id=sidebar] {display: none;}
 /* 헤더영역 */
 header {
-  background-color:#f5f5f5;
+  /* background-color:#f5f5f5; */
   position:relative;
   z-index:4;
 }
